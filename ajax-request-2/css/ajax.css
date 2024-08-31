@@ -1,0 +1,28 @@
+#profile-form input, #simple-auth-login-form input {
+     display: block;
+     margin-bottom: 20px;
+     padding: 10px 10px;
+     background: rgb(48, 46, 46);
+     color: #fff;
+     border-radius: 20px;
+     width: 300px;
+}
+#profile-form button {
+     padding: 10px 10px;
+     border-radius: 20px;
+     background: black;
+     color: #fff;
+     transition: 0.5s;
+}
+#profile_form button:hover {
+     background: red;
+}
+#simple-auth-profile {
+     width: 400px;
+     height: auto;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     padding: 20px ;
+}
+#simple-auth-profile h2 {
+     text-align: center;
+}
